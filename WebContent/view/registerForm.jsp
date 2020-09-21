@@ -23,7 +23,7 @@ div.ex {
 	<h1>Register Form</h1>
 	<div class="ex">
 
-		<form action="/hw1-helloMVC/doLogin" method="post">
+		<form action="/hw1-helloMVC/doRegister" method="post">
 			<table cellpadding="5">
 				<tr>
 					<td>아이디</td>
